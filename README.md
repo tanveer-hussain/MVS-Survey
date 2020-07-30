@@ -6,7 +6,7 @@ https://www.sciencedirect.com/science/article/pii/S0031320320303708
 
 ## Notice
 Prior to the codes usage for industrial purposes or re-distribution, please read the licensing information given at the end of  <b> README file </b>
-
+### Introduction
 This survey has complete details about the open-source codes and publicly available datasets for multi-view video summarization.
 
 
