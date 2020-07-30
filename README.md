@@ -11,16 +11,20 @@ This survey has complete details about the open-source codes and publicly availa
 
 
 # Citation
+<code>
+<pre>
+Tanveer Hussain, Khan Muhammad, Weiping Ding, Jaime Lloret, Sung Wook Baik, Victor Hugo C. de Albuquerque,
+A Comprehensive Survey on Multi-View Video Summarization, Pattern Recognition, 2020, 107567, ISSN 0031-3203,
+https://doi.org/10.1016/j.patcog.2020.107567.
+</code>
+</pre>
+If you are interested in Video Summarization domain you may find some of my other recent papers worthy to read:
+
+
 <pre>
 <code>
 Hussain, T., Muhammad, K., Del Ser, J., Baik, S. W., & de Albuquerque, V. H. C. (2019). Intelligent Embedded Vision for Summarization of Multi-View Videos in IIoT. IEEE Transactions on Industrial Informatics.
-</code>
-</pre>
 
-If you are interested in Video Summarization domain you may find some of my other recent papers worthy to read:
-
-<pre>
-<code>
 K. Muhammad, T. Hussain, and S. W. Baik, "Efficient CNN based summarization of surveillance videos for resource-constrained devices," Pattern Recognition Letters, 2018/08/07/ 2018
 
 Hussain, Tanveer, Khan Muhammad, Amin Ullah, Zehong Cao, Sung Wook Baik, and Victor Hugo C. de Albuquerque. "Cloud-Assisted Multi-View Video Summarization using CNN and Bi-Directional LSTM." IEEE Transactions on Industrial Informatics (2019).
